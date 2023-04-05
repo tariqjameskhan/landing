@@ -1,0 +1,22 @@
+.footer {
+  background-color: rgba(43, 40, 40);
+  padding: 100px 0;
+  height: 100px;
+  color: rgb(84, 82, 82);
+  text-align: center;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+  text-align: center;
+}
+
+i {
+  font-size: 40px;
+  color: rgb(107, 193, 150);
+}
+
+.footer p {
+  margin-left: 40px;
+}

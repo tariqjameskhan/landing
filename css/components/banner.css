@@ -1,0 +1,13 @@
+.banner {
+  /* height: 500px; */
+  object-fit: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1, .banner p {
+  color: white;
+  /* text-align: center; */
+  margin-bottom: 30px;
+
+}
